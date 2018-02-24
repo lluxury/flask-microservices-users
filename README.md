@@ -1,3 +1,3 @@
 # flask-microservices-users
 tdd flask microservice course
-test
+[![Build Status](https://travis-ci.org/lluxury/flask-microservices-users.svg?branch=master)](https://travis-ci.org/lluxury/flask-microservices-users)
